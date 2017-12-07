@@ -1,0 +1,11 @@
+Package: newRat
+Title: Newton Rapshon
+Date: 11-12-2017
+Version: 1.0.0
+Authors: Madhurima Datta <mdatta@ufl.edu>, Amanda Kang, Heather Lauritano <hlauritano@ufl.edu>
+Description: Finds the zeros of a univariate function using the Newton Raphson Method.  This process uses the original function and it's derivative.  
+Depends: R (>= 3.4.1), numDeriv
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
